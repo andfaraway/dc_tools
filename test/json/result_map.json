@@ -1,0 +1,958 @@
+{
+  "basic": {
+    "request": {
+      "i18n": "Enxa7cz",
+      "reqSource": "w3F7aTsI9P2",
+      "phoneName": "vekJrAVSAVBulU0",
+      "appVersion": "kRoYdyE00",
+      "androidversion": "eJxsdDMI0",
+      "deviceID": "FsaWOCSvdVdsdq1",
+      "webVersion": "RuP8bKOJwJD2",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "path": "basic",
+    "requestUrl": "basicRequestUrl"
+  },
+  "getImageCode": {
+    "request": {
+      "telNo": "qwEI9B8"
+    },
+    "requestUrl": "/JmmXvJT/tbSJfKh",
+    "response": {
+      "captcha": "EekkR21ezrS7"
+    },
+    "path": "/GdpzFwM/WYSN/AVPdSlNC/hMPXPKjvlTP"
+  },
+  "getVersionInfo": {
+    "requestUrl": "/eOKhqF/kYGbQju",
+    "response": {
+      "content": "NqkBkl7",
+      "downLoadType": "hobpC8",
+      "downLoadUrl": "bhczXl6",
+      "imgUrl": "cCUx0",
+      "title": "CbKqyQnA4"
+    },
+    "path": "/GdpzFwM/WYSN/CjSTTFBF/SzHN"
+  },
+  "recommendProductFeedback": {
+    "request": {
+      "exquisiteItemType": "BbswlBAM3",
+      "exquisId": "NO67Qzqpp0P4",
+      "actionType": "WWjM6sAXpIM96",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/RqRDN/qyPj",
+    "response": {},
+    "path": "/GdpzFwM/WYSN/dErKCO/TKCGL"
+  },
+  "infoUpload": {
+    "request": {
+      "jsonPayload": "C7rixMz4HDsY1",
+      "isUploaded": "X2YNsp0",
+      "uploadType": "nE6XOjJVCn6",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/ihioc/PDdg",
+    "response": {},
+    "path": "/GdpzFwM/WYSN/ejPl/IRmjYHHhv"
+  },
+  "getRecommendProduct": {
+    "request": {
+      "exquisiteItemType": "BbswlBAM3",
+      "pagingData": "fyDMDdX5R8RK0",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/tDTH/IDbiYk",
+    "response": {
+      "exquisId": "NO67Qzqpp0P4",
+      "exquisLogo": "RUmurtlBF5",
+      "exquisName": "adJaB2Ld425",
+      "exquisRate": "Fj3AMUmu6",
+      "maxDeposit": "tH5WpD8",
+      "maxDueDate": "Bg25D3x0Y5",
+      "minDeposit": "J6z7VqMh0",
+      "minDueDate": "vSEex3",
+      "redirectType": "cx3D6",
+      "redirectUrl": "CjV2l1y2",
+      "trackingTag": "KJ4Piq5VKqi97"
+    },
+    "path": "/GdpzFwM/WYSN/emmt/IiYjgI"
+  },
+  "getVoiceCode": {
+    "request": {
+      "veriType": "TdGwSIjJg17aUi2",
+      "phoneNo": "XenoMJ3",
+      "figureVeri": "xeHhnICw1"
+    },
+    "requestUrl": "/SAijtTf/hlJOzPFG7SOz3",
+    "response": {
+      "captcha": "EekkR21ezrS7"
+    },
+    "path": "/GdpzFwM/WYSN/hwQzHYY/QGKYnf"
+  },
+  "getSMSCode": {
+    "request": {
+      "veriType": "TdGwSIjJg17aUi2",
+      "phoneNo": "XenoMJ3",
+      "figureVeri": "xeHhnICw1"
+    },
+    "requestUrl": "/SAijtTf/JxLpxqCb",
+    "response": {
+      "captcha": "EekkR21ezrS7"
+    },
+    "path": "/GdpzFwM/WYSN/hwQzHYY/qmQRazeGni"
+  },
+  "getBankCodeInfo": {
+    "requestUrl": "/bxrtP/ApVagJGXyoU",
+    "response": {
+      "autoPopulation": "f4sSvK7IUGded6",
+      "bankProminenceIndex": "FF3ryR7ybQXHzO4",
+      "bkcode": "PMK4sx7WHEJ7",
+      "bkname": "TEsJRHax7gTLlP0",
+      "hotFlag": "jgskfqTrvqn1"
+    },
+    "path": "/GdpzFwM/WYSN/jTLHAo/AfYbqOtCE"
+  },
+  "getAddressJson": {
+    "requestUrl": "/paDCu/seizedg",
+    "response": {
+      "cityList": {
+        "value": "dLRVI8"
+      },
+      "id": "OXWzb47",
+      "name": "yfEdm7wRTlg8",
+      "parentId": "CuNo54"
+    },
+    "path": "/GdpzFwM/WYSN/jguadTR/aXAlNDpDJ"
+  },
+  "getServerDictionary": {
+    "request": {
+      "stopwatch": "cnYsX1"
+    },
+    "requestUrl": "/siVyuVdDB",
+    "response": {
+      "callAgreement": "XKJm5",
+      "contactsAgreement": "jnaM20",
+      "employAgreement": "HtnogTnq2",
+      "items": {
+        "itemMapName": "Byh00Klmqx30",
+        "itemMapVal": "pKLQHYSmFDlz3",
+        "value": "Je0BJrG2"
+      },
+      "privacyAgreement": "fhMeXdKgXfP3",
+      "smsAgreement": "fOzd7Qe2Goq2F0",
+      "stopwatchVal": "sv5SUD3ieGyua1",
+      "telAgreement": "kk0umyoSEelpfo4"
+    },
+    "path": "/GdpzFwM/WYSN/rgCnai"
+  },
+  "homeScene": {
+    "request": {
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/pmUveuJbHSTk/pmUveuJbHSTkData",
+    "response": {
+      "amtGroup": "siIYTg0euF3Di6",
+      "canApplyModule": {
+        "exquisId": "NO67Qzqpp0P4",
+        "exquisLogo": "RUmurtlBF5",
+        "exquisName": "adJaB2Ld425",
+        "maxDeposit": "tH5WpD8",
+        "maxDueDate": "Bg25D3x0Y5",
+        "minDeposit": "J6z7VqMh0",
+        "minDueDate": "vSEex3",
+        "planLoanDate": "EfIzsvC18",
+        "wenSelectFlag": "iGuDkdLjXFIU47",
+        "value": "Ov124"
+      },
+      "carrierAddress": "nGHMdmFgq2",
+      "forceUploads": {
+        "uploadType": "MpvKL1",
+        "uploadStatus": "yh6tNk8",
+        "forceUpload": "U7zmqcnJ2",
+        "uploadContent": "YPhAfldOG4",
+        "value": "jt8Gqc6AuOw3"
+      },
+      "firstOrAgain": "nQypwlv6",
+      "incompleteUploads": "wS5JTD6",
+      "isAutoConfirm": "YUMchMhW2",
+      "isShowFlagTips": "mvNtzBkxbo0z0",
+      "loanReleaseModule": {
+        "expectedLoanRelease": "GeJ47",
+        "expectedLoanReleaseCount": "bw75BrGNrth145",
+        "value": "QP2D41r0VT27"
+      },
+      "maxSelectCount": "sOafwtbO0",
+      "producListOfhome": {
+        "exquisId": "NO67Qzqpp0P4",
+        "exquisLogo": "RUmurtlBF5",
+        "exquisName": "adJaB2Ld425",
+        "exquisRate": "Fj3AMUmu6",
+        "maxDeposit": "tH5WpD8",
+        "maxDueDate": "Bg25D3x0Y5",
+        "minDeposit": "J6z7VqMh0",
+        "minDueDate": "vSEex3",
+        "redirectType": "cx3D6",
+        "redirectUrl": "CjV2l1y2",
+        "trackingTag": "KJ4Piq5VKqi97",
+        "value": "GNwffVrBR2"
+      },
+      "refuseTime": "e6NLOso7",
+      "repayModule": {
+        "repayAmt": "jFAHy1",
+        "repayCount": "lrFKyaoJ8",
+        "repayDetails": {
+          "reminderContent": "QWySP4LfAAgDcA4",
+          "reminderHour": "N2pM0",
+          "reminderTime": "kKFP5",
+          "reminderTitle": "hs1CSaqfuMH6",
+          "value": "tskEB5"
+        },
+        "value": "Vr75Gj48"
+      },
+      "reserveModule": {
+        "bankNo": "lPJDWo7",
+        "reserveApplyMap": {
+          "applyAmount": "KtOl5",
+          "applyId": "applyId",
+          "applyLogo": "y8cwEoWvPCDLo00",
+          "applyName": "M5Op6",
+          "serviceFee": "Uaf5uIndrQAw5",
+          "value": "RFFN1GYn2"
+        },
+        "reserveLoanRelease": "pWK9issK4lVgG2",
+        "reserveSwitch": "WNLr9BpWuaPwg98",
+        "whatsAppNo": "jreSB2",
+        "value": "GW52raBI7"
+      },
+      "riskSwitch": "Qhq9bC1Jn6",
+      "scienFlag": "HWXk1lvUke3",
+      "showAmt": "sqsSxh8",
+      "underReviewModule": {
+        "groupAppsDetails": {
+          "applyIdOfHomeBygroup": "FpLsY3T1s0",
+          "applyLogoOfHomeBygroup": "I0wO3HdgL3Nn7",
+          "applyNameOfHomeBygroup": "pKALcInErnO3",
+          "value": "l6Xv6zM6LRvu3"
+        },
+        "groupCurrentTotalAmt": "h8Yc8qYs7",
+        "groupIdentifier": "AwH3rg1LbsR0",
+        "value": "eTxJyxY01zVn2"
+      }
+    },
+    "path": "/jWgT/IwuwvsKXVUe/IXHROv/IXHROvData"
+  },
+  "actionFeedback": {
+    "request": {
+      "uuid": "uuid",
+      "firstAgain": "stmg3s8",
+      "applyId": "saxP9saxqja",
+      "appOwnership": "xOps3Levo2",
+      "pageName": "sPxaav9Wxx",
+      "eventName": "dYWhWEkp",
+      "eventId": "aioOx7Aapx",
+      "eventContent": "Wued"
+    },
+    "requestUrl": "/akeyQkkewtwzz/kewtakeySing",
+    "response": {},
+    "path": "/GdpzFwM/WYSN/dErKCO/kewtakeySing"
+  },
+  "applyAutoBorrowFlow": {
+    "request": {
+      "clickType": "DC6900yil4152",
+      "applys": "applys",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/VNccuGVpPHtw/aWLada",
+    "response": {
+      "adbrt": "Gsn0iY5",
+      "bankId": "eLeOvuArjwyH3"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/NMVWOj/LJPJmT"
+  },
+  "getBorrowInfo": {
+    "request": {
+      "applyId": "applyId",
+      "amtGroupId": "nruh3",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/VNccuGVpPHtw/AVnTsFcvoY",
+    "response": {
+      "adbrt": "Gsn0iY5",
+      "appOptional": "lK68eUEr46",
+      "applyList": {
+        "applyIdOftrialCal": "DzaFpkPCqezV2",
+        "applyLogoOftrialCal": "TqKzOG0",
+        "applyNameOftrialCal": "gylUUo0",
+        "channelFee": "wBmYgWDJHKEPBr6",
+        "creInvestFee": "e8m4tnjqL1Vf8",
+        "interest": "yc8c6xVvgb2",
+        "isSelect": "qJtqtB1gzcFt7",
+        "loanAmt": "HbFQvTOBu6",
+        "loanTime": "TtuiU0",
+        "repayTime": "uNRL98uk4",
+        "serviceFee": "Uaf5uIndrQAw5",
+        "taxAmt": "TPp96Wgz1",
+        "value": "KUwIIVsR5"
+      },
+      "bankCode": "h9IE4UiJIEs1j5",
+      "bkId": "IfjuILI8qx30",
+      "bkName": "PySzcSyYfwy6",
+      "bkNo": "pks9TDQK4qu1Dn2",
+      "checkMaximum": "ye6KmhnH20Hmyt3",
+      "countDownTime": "wnGi6tMMjet2",
+      "couponList": {
+        "couponAmt": "wGk8RxWeHtpDdd4",
+        "couponDesc": "Al0wKk1aRxqM3",
+        "couponExpiryDate": "yhrvjtFlciOJjq3",
+        "couponId": "RQNaaOSyOfEQ6",
+        "couponName": "fAHJVyHrkRqod8",
+        "couponType": "XDJAV0",
+        "value": "UpkrrUyqN2"
+      },
+      "firstOrAgain": "nQypwlv6",
+      "isAbandon": "Kv36Io4F1",
+      "isBankCardVerified": "y9jcqU59xlO4",
+      "isJumpPage": "UFcW8psMcdO3",
+      "loanCount": "NfyULexMn0",
+      "repayCount": "lrFKyaoJ8",
+      "speciFlagOfBk": "ETFY80"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/NMVWOj/QSQgRWVV"
+  },
+  "confirmBorrowMoney": {
+    "request": {
+      "bkId": "IfjuILI8qx30",
+      "couponId": "RQNaaOSyOfEQ6",
+      "applyId": "applyId",
+      "uuid": "uuid",
+      "byTimer": "zuxDDjgDqrCO3"
+    },
+    "requestUrl": "/VNccuGVpPHtw/Iezn",
+    "response": {
+      "bkId": "IfjuILI8qx30",
+      "bkNo": "pks9TDQK4qu1Dn2",
+      "firstOrAgain": "nQypwlv6",
+      "isJumpPage": "UFcW8psMcdO3"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/NMVWOj/UzaJ"
+  },
+  "cancelAutoBorrowMoney": {
+    "request": {
+      "uuid": "uuid"
+    },
+    "requestUrl": "/kKJrSdvNgbE/FCbRCWo",
+    "response": {
+      "code": "code",
+      "data": "data",
+      "message": "message"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/RJjFs/BreDm"
+  },
+  "changeBorrowInfo": {
+    "request": {
+      "couponId": "RQNaaOSyOfEQ6",
+      "bkid": "i1RYI7yMH5",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/kKJrSdvNgbE/UurznWy",
+    "response": {
+      "code": "code",
+      "data": "data",
+      "message": "message"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/RJjFs/FXfxKP"
+  },
+  "videoFaceCompare": {
+    "request": {
+      "bkId": "bkId",
+      "actionCode": "actionCode",
+      "slinger": "slinger",
+      "liveSlinger": "liveSlinger",
+      "token": "token",
+      "uuid": "uuid",
+      "ufcs": "ufcs",
+      "imcs": "imcs"
+    },
+    "requestUrl": "/mgaFSuzyOQN/liveDetectionValid",
+    "response": {
+      "faceMethodChannel": "faceMethodChannel",
+      "isVideo": "isVideo",
+      "liveMethodChannel": "liveMethodChannel"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/fRAxBP/bNydTG"
+  },
+  "ocrSave": {
+    "request": {
+      "documentName": "K8kQO7",
+      "aadhaarNo": "d5I1fmHBKP6",
+      "birthday": "ikV2PFx1",
+      "uuid": "uuid",
+      "gender": "wP30AXKDXsS1"
+    },
+    "requestUrl": "/mgaFSuzyOQN/BdqisolBwgLn",
+    "response": {},
+    "path": "/jWgT/IwuwvsKXVUe/fRAxBP/cTfTEjLTRsSh"
+  },
+  "ocrParsing": {
+    "request": {
+      "cardImg": "MpOokKmt1",
+      "cardType": "TEQsAUAYlJx8V6",
+      "operateType": "kVgXP6mLnD6",
+      "ocrSlinger": "nybgu6U7",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/mgaFSuzyOQN/PORYwIYPpGV",
+    "response": {
+      "birthday": "ikV2PFx1",
+      "cardbackImg": "oXqngB2m4",
+      "cardfrontImg": "tkrbG7U8",
+      "documentName": "K8kQO7",
+      "documentNo": "pu1Nj94",
+      "gender": "wP30AXKDXsS1",
+      "ocrMethodChannel": "fAz4dajv8"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/fRAxBP/cgWVpPfbu"
+  },
+  "getOcrInfo": {
+    "request": {
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/mgaFSuzyOQN/DFircnPvm",
+    "response": {
+      "birthday": "ikV2PFx1",
+      "cardbackImg": "oXqngB2m4",
+      "cardfrontImg": "tkrbG7U8",
+      "documentName": "K8kQO7",
+      "documentNoCom": "Fe9UjpsHiE7",
+      "faceChannleCom": "jG7xm3",
+      "faceStatus": "vUXizy87",
+      "gender": "wP30AXKDXsS1",
+      "isCloneInfo": "lEXPx5",
+      "liveChannleCom": "ujS304",
+      "ocrBackFlag": "mN25bsT2",
+      "ocrChannleCom": "CflN6",
+      "ocrFortFlag": "BLjmeY8",
+      "isVideo": "mx8rbG7O7",
+      "switchStatus": "f07VJ2haT6r5"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/fRAxBP/tmfaDgsqJM"
+  },
+  "contactInfoConfirm": {
+    "request": {
+      "otherContactPhone3": "AcP3XNW6",
+      "otherContactPhone1": "GVXHH4",
+      "otherContactPhone2": "N5IyX591fLRBgk2",
+      "otherContactName4": "NPHKugjk87",
+      "familyPhone": "OhOdX5hR1W7l6",
+      "otherContactPhone4": "Os9zE23",
+      "familyName2": "WwoBjipKVwPre7",
+      "familyName": "YRJrjK6xDh4wK2",
+      "relationCode2": "dgxfK4",
+      "otherContactName1": "j8GBHyDODBxUva8",
+      "familyPhone2": "jP3q8DH9Jc0",
+      "relationCode": "l1EN0",
+      "token": "token",
+      "uuid": "uuid",
+      "otherContactName3": "vN8BV0uzz0",
+      "otherContactName2": "yf1fppK6"
+    },
+    "requestUrl": "/NjfFe/hGkJFPgqukW",
+    "response": {
+      "carrierAddress": "nGHMdmFgq2",
+      "demonStrate": "aTUDVNGRyokQ6",
+      "relatPhone": "F6bO7",
+      "staffPhone": "sf9anqhikOBD7R0"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/lKhOsXYGLe/Smqye"
+  },
+  "getConfirmInformation": {
+    "request": {
+      "infoType": "R3r5DYWawT9vB8",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/NjfFe/neqwtgj",
+    "response": {
+      "accountNo": "KgQLvEdvxb579t8",
+      "awMCHIn116": "rEqKXrkxeW2",
+      "bankCode": "h9IE4UiJIEs1j5",
+      "city": "YReEi8kU75TjN3",
+      "email": "UHyOdbB0Y7Nm2",
+      "familyName": "YRJrjK6xDh4wK2",
+      "familyName2": "WwoBjipKVwPre7",
+      "familyPhone": "OhOdX5hR1W7l6",
+      "familyPhone2": "jP3q8DH9Jc0",
+      "highestEdu": "X3YJCwMuC1",
+      "jobType": "Kz5CyP3",
+      "monthIncomeRange": "jFcvuKESR8",
+      "numOfChild": "gRaeiRTdGS7",
+      "otherContactName1": "j8GBHyDODBxUva8",
+      "otherContactName2": "yf1fppK6",
+      "otherContactName3": "vN8BV0uzz0",
+      "otherContactName4": "NPHKugjk87",
+      "otherContactPhone1": "GVXHH4",
+      "otherContactPhone2": "N5IyX591fLRBgk2",
+      "otherContactPhone3": "AcP3XNW6",
+      "otherContactPhone4": "Os9zE23",
+      "otherCount": "ov0uIrMw9X1",
+      "payPurpose": "S03ycfh2",
+      "realteCount": "NEiIyS6P8Kjuy16",
+      "region": "afG0zJNS1",
+      "relationCode": "l1EN0",
+      "relationCode2": "dgxfK4",
+      "state": "htI2FjJs3u8",
+      "zalo": "trMGsbnor3"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/lKhOsXYGLe/XpEPc"
+  },
+  "bankcardInfoConfirm": {
+    "request": {
+      "accountNo": "KgQLvEdvxb579t8",
+      "scene": "TmUBH9J98",
+      "applys": "applys",
+      "bankId": "eLeOvuArjwyH3",
+      "bankCode": "h9IE4UiJIEs1j5",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/NjfFe/NdxnJY",
+    "response": {
+      "firstAgain": "Q3sEz0",
+      "isJumpPage": "UFcW8psMcdO3"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/lKhOsXYGLe/fDmagDoiD"
+  },
+  "baseInfoConfirm": {
+    "request": {
+      "jobType": "Kz5CyP3",
+      "payPurpose": "S03ycfh2",
+      "email": "UHyOdbB0Y7Nm2",
+      "highestEdu": "X3YJCwMuC1",
+      "city": "YReEi8kU75TjN3",
+      "region": "afG0zJNS1",
+      "numOfChild": "gRaeiRTdGS7",
+      "state": "htI2FjJs3u8",
+      "monthIncomeRange": "jFcvuKESR8",
+      "token": "token",
+      "zalo": "trMGsbnor3",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/NjfFe/TAvDQ",
+    "response": {
+      "code": "code",
+      "data": "data",
+      "message": "message"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/lKhOsXYGLe/jtisASXjc"
+  },
+  "checkContactPhone": {
+    "request": {
+      "phone": "f7ST6lEUVxQ10"
+    },
+    "requestUrl": "/NjfFe/lUor1",
+    "response": {
+      "handlePhone": "VXbdDyV2",
+      "relatPhone": "F6bO7",
+      "staffPhone": "sf9anqhikOBD7R0"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/lKhOsXYGLe/leHdGlTHCeTq"
+  },
+  "operatorInfoConfirm": {
+    "request": {
+      "uuid": "uuid"
+    },
+    "requestUrl": "/NjfFe/TiEHj26",
+    "response": {},
+    "path": "/jWgT/IwuwvsKXVUe/lKhOsXYGLe/lqkoP"
+  },
+  "getBankCardList": {
+    "request": {
+      "uuid": "uuid"
+    },
+    "requestUrl": "/ammktuPhli/LwIK",
+    "response": {
+      "accBkId": "sGGGJlxK7",
+      "accBkName": "cAPiydMgRtkqVw5",
+      "accBkNo": "YoC2D1",
+      "accBkSelect": "KVXieOct8"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/pSXBbh/THKjofJhS"
+  },
+  "setDefaultBankCard": {
+    "request": {
+      "accBkId": "sGGGJlxK7",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/ammktuPhli/GyFhFQwI",
+    "response": {},
+    "path": "/jWgT/IwuwvsKXVUe/pSXBbh/XOgE"
+  },
+  "personalCenterShowBankItem": {
+    "request": {
+      "uuid": "uuid"
+    },
+    "requestUrl": "/ammktuPhli/MXydFTJKqn",
+    "response": {
+      "showFlag": "MQntY8"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/pSXBbh/gdPJL"
+  },
+  "cancelReserveOrder": {
+    "request": {
+      "reserveId": "X4Bpbexp2zp1HH0",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/hlMgv/DXgDnr",
+    "response": {},
+    "path": "/jWgT/IwuwvsKXVUe/uTqM/DNFuTVcoc"
+  },
+  "createReserveOrder": {
+    "request": {
+      "applyId": "applyId",
+      "bkNoOfResve": "o1lxJxjt3",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/hlMgv/CAeAuq",
+    "response": {},
+    "path": "/jWgT/IwuwvsKXVUe/uTqM/EDjqbOXv"
+  },
+  "getReserveOrderList": {
+    "request": {
+      "uuid": "uuid"
+    },
+    "requestUrl": "/hlMgv/DrBqALwD",
+    "response": {
+      "reserveList": {
+        "reserveAmt": "QyFE8",
+        "reserveId": "X4Bpbexp2zp1HH0",
+        "reserveLogo": "S6vo7I8",
+        "reserveName": "qlmuz7",
+        "reserveTime": "ryvV2",
+        "value": "vkiHeWtXokAkpe5"
+      },
+      "reserveTips": "N9LJdF0"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/uTqM/RKshFklHjqUP"
+  },
+  "checkReserveOrder": {
+    "request": {
+      "uuid": "uuid"
+    },
+    "requestUrl": "/hlMgv/jGTMSnvXm",
+    "response": {
+      "bankNo": "lPJDWo7",
+      "reserveApplyMap": {
+        "applyAmount": "KtOl5",
+        "applyId": "applyId",
+        "applyLogo": "y8cwEoWvPCDLo00",
+        "applyName": "M5Op6",
+        "serviceFee": "Uaf5uIndrQAw5",
+        "value": "RFFN1GYn2"
+      },
+      "reserveSwitch": "WNLr9BpWuaPwg98",
+      "whatsAppNo": "jreSB2"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/uTqM/mdUAr"
+  },
+  "getRiskControlResult": {
+    "request": {
+      "applys": "applys",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/Yyna/wTIHu",
+    "response": {
+      "adbrt": "Gsn0iY5",
+      "applys": "applys",
+      "firstOrAgain": "nQypwlv6",
+      "groupIdentifier": "X9ablXdfTaI6",
+      "isAdvertising": "Pqqls31"
+    },
+    "path": "/jWgT/IwuwvsKXVUe/wnGrWNa/FdDJvsF"
+  },
+  "getRiskControlRuler": {
+    "request": {
+      "applyId": "applyId",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/Yyna/wNVSdoFgyl",
+    "response": {
+      "incompleteUploads": "wS5JTD6",
+      "forceUploads": {
+        "uploadType": "MpvKL1",
+        "uploadStatus": "yh6tNk8",
+        "forceUpload": "U7zmqcnJ2",
+        "uploadContent": "YPhAfldOG4",
+        "value": "jt8Gqc6AuOw3"
+      }
+    },
+    "path": "/jWgT/IwuwvsKXVUe/wnGrWNa/uTCPjRAm"
+  },
+  "logout": {
+    "request": {
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/mgfwdiyXKh/xeLNQFMCbvyW",
+    "response": {
+      "code": "code",
+      "data": "data",
+      "message": "message"
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/UfNwrocpj/KhPitGdUWlM"
+  },
+  "orderList": {
+    "request": {
+      "pageCount": "Lu3WQPcwcLu3y6",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/mgfwdiyXKh/lblUDpT",
+    "response": {
+      "orderList": {
+        "actualIncome": "zSRgUMuUKFg0",
+        "applyId": "applyId",
+        "applyLogo": "y8cwEoWvPCDLo00",
+        "applyName": "M5Op6",
+        "copyText": "NURQTiome72Jo0",
+        "estimatFunTime": "WazBPweMTg24",
+        "loanOrderId": "qTqpRJ49kuV1",
+        "loanOrderStatus": "FwpmzuIqp6",
+        "orderSequenceId": "B6R9nPQk9pceVE3",
+        "orderStatusName": "oy8aI68",
+        "repayAmt": "jFAHy1",
+        "repayDateTime": "rf2MKmtSb4",
+        "value": "buJUo7"
+      }
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/UfNwrocpj/LHOzKIhhQ"
+  },
+  "login": {
+    "request": {
+      "deviceOS": "Fj4ukR1OzoDx0",
+      "contactMobile": "T1d3YuMd6xIz3",
+      "captchaCode": "aowdmMiX0"
+    },
+    "requestUrl": "/mgfwdiyXKh/xmxo",
+    "response": {
+      "cellular": "U8kTzabdnd47",
+      "regOrLogChoice": "KJgr7",
+      "token": "token",
+      "userIsTester": "nJUaH80",
+      "uuid": "uuid"
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/UfNwrocpj/SUsEy"
+  },
+  "orderDetail": {
+    "request": {
+      "loanOrderId": "qTqpRJ49kuV1",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/mgfwdiyXKh/xIOYvJJ",
+    "response": {
+      "actualIncome": "zSRgUMuUKFg0",
+      "applyId": "applyId",
+      "applyLogo": "y8cwEoWvPCDLo00",
+      "applyName": "M5Op6",
+      "bankCard": "TY1pVm0",
+      "canExtend": "IF6q8",
+      "channelFee": "wBmYgWDJHKEPBr6",
+      "creInvestFee": "e8m4tnjqL1Vf8",
+      "delayedDate": "h17fqX1iOs1p0",
+      "delayedFee": "GLRM7naHk2",
+      "financeCharge": "PJeewSBIyI5SOD6",
+      "helpDeskCell": "zk2hPQ8",
+      "loanOrderId": "qTqpRJ49kuV1",
+      "loanOrderStatus": "FwpmzuIqp6",
+      "loanTerm": "ey9HyRYy92jma2",
+      "orderStatusName": "oy8aI68",
+      "repayAmt": "jFAHy1",
+      "repayDateTime": "rf2MKmtSb4",
+      "salesTax": "RfrH632oJrm95",
+      "serviceFee": "Uaf5uIndrQAw5"
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/UfNwrocpj/UuWqfV"
+  },
+  "checkSMSFirstSend": {
+    "request": {
+      "telMobile": "Ioh4Ij3"
+    },
+    "requestUrl": "/mgfwdiyXKh/AILXwkA",
+    "response": {
+      "cellular": "U8kTzabdnd47",
+      "isFirstTrigger": "c7WBx87QdX4",
+      "token": "token",
+      "userIsTester": "nJUaH80",
+      "uuid": "uuid"
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/UfNwrocpj/irPGonULw"
+  },
+  "repaymentDetail": {
+    "request": {
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/mgfwdiyXKh/hvLRqK",
+    "response": {
+      "fullDebtAmount": "GQiEG7vXWBSWT7",
+      "settleTrans": {
+        "canExtend": "IF6q8",
+        "choiceMade": "CqA27UO0X72ReY0",
+        "loanOrderId": "qTqpRJ49kuV1",
+        "loanOrderStatus": "FwpmzuIqp6",
+        "programId": "Oc9pOLhiCOb0",
+        "programLogo": "CLXBQ2",
+        "programName": "l8pfHi8",
+        "repayAmount": "E07QtbyToNhPU5",
+        "repayDateTime": "rf2MKmtSb4",
+        "value": "EtauW1iK87"
+      }
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/UfNwrocpj/joGq"
+  },
+  "feedBackH5": {
+    "request": {
+      "ANlDF5": "NNGj8nU2",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/mgfwdiyXKh/tgyz/vkkVlnC",
+    "response": {
+      "code": "code",
+      "data": "data",
+      "message": "message"
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/UfNwrocpj/tgyz/pQaAXeGPUNd"
+  },
+  "useCoupon": {
+    "request": {
+      "couponId": "RQNaaOSyOfEQ6",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/XwYSAKiixu/DXfO",
+    "response": {},
+    "path": "/EROHQoyY/YlUlCWXRTPg/bdRCdwg/OUWRDSeH"
+  },
+  "getCouponList": {
+    "request": {
+      "variableType": "FDBd8",
+      "couponScien": "HdvS06UP9gu8u23",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/XwYSAKiixu/vDRO",
+    "response": {
+      "couponAmt": "wGk8RxWeHtpDdd4",
+      "couponDesc": "Al0wKk1aRxqM3",
+      "couponExpiryDate": "yhrvjtFlciOJjq3",
+      "couponId": "RQNaaOSyOfEQ6",
+      "couponName": "fAHJVyHrkRqod8",
+      "couponType": "XDJAV0"
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/bdRCdwg/sddnQF"
+  },
+  "applyRechargeRepay": {
+    "request": {
+      "couponId": "RQNaaOSyOfEQ6",
+      "paymentType": "X1Kk2LwQaSN82",
+      "rpyMap": "ajYfbPH2",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/VmmkAtkaq/MCKeWVnnoxP",
+    "response": {
+      "redirectTo": "BQS8HNSJQcNUgT5"
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/etORiQS/IlHgVTAYvSr"
+  },
+  "checkRepaymentHasDone": {
+    "request": {
+      "loanOrderId": "qTqpRJ49kuV1",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/VmmkAtkaq/WTIc",
+    "response": {
+      "code": "code",
+      "data": "data",
+      "message": "message"
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/etORiQS/WwuaFN"
+  },
+  "applyExtensionOrder": {
+    "request": {
+      "purchaseId": "iQ7RVobAcua0",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/SXcnD/hOSFBumRfS",
+    "response": {},
+    "path": "/EROHQoyY/YlUlCWXRTPg/wIWbWGeyMPIp/QiSO"
+  },
+  "getExtensionOrderInfo": {
+    "request": {
+      "purchaseId": "iQ7RVobAcua0",
+      "token": "token",
+      "uuid": "uuid"
+    },
+    "requestUrl": "/SXcnD/CwGIIDcDrQHL",
+    "response": {
+      "computedSet": {
+        "creditPaymentDue": "kTwoqXDS5hdIU2",
+        "delayedFee": "GLRM7naHk2",
+        "financeCharge": "PJeewSBIyI5SOD6",
+        "handlingFee": "Tw4yk6",
+        "iva": "kM0X2",
+        "miscFeeCollect": "o6QU3faDWg6U2",
+        "rolloverCharge": "QC5N3",
+        "salesTax": "RfrH632oJrm95",
+        "value": "xy2UmvMIlM0"
+      },
+      "repayRecordSet": {
+        "loanTenure": "bnuAkp71GKk4",
+        "repayAmt": "jFAHy1",
+        "repayDate": "F7Tb5jyfW0",
+        "value": "Abyy0jQuGKz2Hr0"
+      }
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/wIWbWGeyMPIp/lUUe"
+  },
+  "tabOrderList": {
+    "request": {
+      "uuid": "uuid"
+    },
+    "requestUrl": "/mgfwdiyXKh/dIkpEeadwL",
+    "response": {
+      "payoutList": {
+        "applyId": "applyId",
+        "applyLogo": "y8cwEoWvPCDLo00",
+        "applyName": "M5Op6",
+        "applyTime": "FvxgAIWrQ4",
+        "confirmAmt": "hyajf7jpXf1",
+        "lonAppId": "aUaYvp6",
+        "planLoanTime": "Mtl0a5",
+        "value": "uh0fAjrj5n9X6L3"
+      },
+      "repayList": {
+        "applyId": "applyId",
+        "applyLogo": "y8cwEoWvPCDLo00",
+        "applyName": "M5Op6",
+        "backAmt": "vnudG2Xb2",
+        "backTime": "rEK89aKwSOXt4",
+        "isCheck": "eoXrxI4",
+        "isDefer": "bXjzcWXJi6G5",
+        "lonAppId": "aUaYvp6",
+        "orderStatus": "z4gXEDfBh6",
+        "overdueDays": "DWeiNfjrkGFJt3",
+        "value": "CBygNlukgl2"
+      }
+    },
+    "path": "/EROHQoyY/YlUlCWXRTPg/xIwODDygo/bfCY"
+  }
+}
